@@ -1,0 +1,38 @@
+{
+    "app": {
+        "bundleName": "com.dc.testapp1",
+        "bundleType": "app",
+        "versionCode": 1000001,
+        "versionName": "1.0.1",
+        "label": "hpack",
+        "deployDomain": "github.com/iHongRen",
+        "icons": {
+            "normal": "https://github.com/iHongRen/hpack/AppIcon.png",
+            "large": "https://github.com/iHongRen/hpack/AppIcon.png"
+        },
+        "minAPIVersion": "5.0.5(17)",
+        "targetAPIVersion": "5.0.5(17)",
+        "modules": [
+            {
+                "name": "entry",
+                "type": "entry",
+                "deviceTypes": [
+                    "tablet",
+                    "phone"
+                ],
+                "packageUrl": "https://github.com/iHongRen/hpack/20250805121536/entry-default-signed.hap",
+                "packageHash": "25fd2f4c888b70a855d41b0b857403bf226017e2004983c6c8072d5bf48590a4"
+            },
+            {
+                "name": "hsp1",
+                "type": "share",
+                "deviceTypes": [
+                    "tablet",
+                    "phone"
+                ],
+                "packageUrl": "https://github.com/iHongRen/hpack/20250805121536/hsp1-default-signed.hsp",
+                "packageHash": "04be343597137e207e4f8e9fd3667054c2bca47610004ad4676f040e5de052e7"
+            }
+        ]
+    }
+}
