@@ -5,10 +5,10 @@
         "versionCode": 1000001,
         "versionName": "1.0.1",
         "label": "hpack",
-        "deployDomain": "github.com/iHongRen",
+        "deployDomain": "github.com/shishirui/harmonyos-app-install",
         "icons": {
-            "normal": "https://github.com/iHongRen/hpack/AppIcon.png",
-            "large": "https://github.com/iHongRen/hpack/AppIcon.png"
+            "normal": "https://github.com/shishirui/harmonyos-app-install/AppIcon.png",
+            "large": "https://github.com/shishirui/harmonyos-app-install/AppIcon.png"
         },
         "minAPIVersion": "5.0.5(17)",
         "targetAPIVersion": "5.0.5(17)",
@@ -20,8 +20,8 @@
                     "tablet",
                     "phone"
                 ],
-                "packageUrl": "https://github.com/iHongRen/hpack/20250805121536/entry-default-signed.hap",
-                "packageHash": "25fd2f4c888b70a855d41b0b857403bf226017e2004983c6c8072d5bf48590a4"
+                "packageUrl": "https://github.com/shishirui/harmonyos-app-install/20250805142514/entry-default-signed.hap",
+                "packageHash": "38f8c9341d0ed514c6267f2bc869c2951fcd90ba11fe0eb855b16f0bf7a5ed0e"
             },
             {
                 "name": "hsp1",
@@ -30,8 +30,8 @@
                     "tablet",
                     "phone"
                 ],
-                "packageUrl": "https://github.com/iHongRen/hpack/20250805121536/hsp1-default-signed.hsp",
-                "packageHash": "04be343597137e207e4f8e9fd3667054c2bca47610004ad4676f040e5de052e7"
+                "packageUrl": "https://github.com/shishirui/harmonyos-app-install/20250805142514/hsp1-default-signed.hsp",
+                "packageHash": "c2181140a01b5d7a6eb86cfe183d53c60f69c130dd3b79bc4437a0486a769a87"
             }
         ]
     }
